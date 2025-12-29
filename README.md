@@ -1,3 +1,6 @@
+<img width="1901" height="919" alt="image" src="https://github.com/user-attachments/assets/5bada6dd-13b3-4637-a98a-3d418b6310b8" />
+
+
 <h1>🎮 Página de Jogos — Front-end com Gulp</h1>
 
 <p>
